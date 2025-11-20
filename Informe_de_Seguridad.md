@@ -4,6 +4,10 @@
 **Programa:** ETH-KIPU / Módulo 5 – Preparación para Auditoría  
 **Fecha:** 19/11/2026  
 
+📄 Puedes descargar el informe completo aquí:  
+[**Informe_de_seguridad.pdf**](./docs/Informe_de_seguridad.pdf)
+
+
 ---
 
 ## 1. Descripción general del protocolo

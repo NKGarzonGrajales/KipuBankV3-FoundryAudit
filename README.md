@@ -12,6 +12,11 @@ El objetivo de este repo es documentar:
 📄 El informe completo se encuentra en:  
 **`Informe_de_seguridad.md`**
 
+📄 Puedes descargar el informe completo aquí:  
+[**Informe_de_seguridad.pdf**](./docs/Informe_de_seguridad.pdf)
+
+
+
 📁 Las evidencias de cobertura y pruebas están en:  
 `verification/img/`
 
