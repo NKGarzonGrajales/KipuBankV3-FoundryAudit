@@ -1,0 +1,11 @@
+
+
+Parametros despliegue : | Parámetro                | Descripción                                          | Valor sugerido                               |
+| ------------------------ | ---------------------------------------------------- | -------------------------------------------- |
+| `_oracle`                | Dirección del oráculo Chainlink ETH/USD Sepolia      | `0x694AA1769357215DE4FAC081bf1f309aDC325306` |
+| `_bankCapUsdETH`         | Cap USD en 8 decimales (0 para desactivar al inicio) | `0`                                          |
+| `_initialEthBankCap`     | Cap global ETH en wei (por ejemplo 1.55 ETH)         | `1550000000000000000`                        |
+| `_initialEthWithdrawCap` | Límite retiro por tx (0.02 ETH)                      | `20000000000000000`       
+
+
+
