@@ -13,7 +13,8 @@ El objetivo de este repo es documentar:
 **`Informe_de_seguridad.md`**
 
 📄 Puedes descargar el informe completo aquí:  
-[**Informe_de_Seguridad.pdf**](./docs/TP5 -Informe_de_Seguridad.pdf)
+[TP5 - Informe de Seguridad (PDF)](<docs/TP5 - Informe de Seguridad.pdf>)
+
 
 
 
