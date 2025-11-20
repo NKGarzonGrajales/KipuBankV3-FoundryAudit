@@ -9,12 +9,9 @@ El objetivo de este repo es documentar:
 - Pruebas unitarias y de cobertura usando **Foundry**  
 - Recomendaciones para endurecer el contrato  
 
-📄 El informe completo se encuentra en:  
-**`Informe_de_seguridad.md`**
 
 📄 Puedes descargar el informe completo aquí:  
-[TP5 - Informe de Seguridad (PDF)](<docs/TP5 - Informe de Seguridad.pdf>)
-
+[TP5_Informe_de_Seguridad (PDF)](docs/TP5_Informe_de_Seguridad.pdf)
 
 
 
