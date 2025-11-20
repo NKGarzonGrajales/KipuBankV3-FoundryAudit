@@ -5,7 +5,7 @@
 **Fecha:** 19/11/2026  
 
 📄 Puedes descargar el informe completo aquí:  
-[**Informe_de_seguridad.pdf**](./docs/Informe_de_seguridad.pdf)
+[**Informe_de_Seguridad.pdf**](./docs/TP5 - Informe_de_Seguridad.pdf)
 
 
 ---
